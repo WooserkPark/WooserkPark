@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 
 -->
 
-✨ Resume Download: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
+✨ ```Portfolio Website```: https://www.wooserkpark.com/
+
+✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734
+
+✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
 ![Wooserk_Park_Resume](https://github.com/user-attachments/assets/dcb7f272-2134-4f28-81b6-9467b82b56e3)
