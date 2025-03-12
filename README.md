@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -21,6 +20,8 @@ Here are some ideas to get you started:
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+
+-->
 
 ✨ Resume Download: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
 ![Wooserk_Park_Resume](https://github.com/user-attachments/assets/dcb7f272-2134-4f28-81b6-9467b82b56e3)
