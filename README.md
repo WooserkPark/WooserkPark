@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208921/Wooserk_Park_Resume.pdf)
+![Wooserk_Park_Resume](https://github.com/user-attachments/assets/43904224-218e-493a-a04b-96d61381e332)
