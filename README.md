@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ✨ ```Portfolio Website```: https://www.wooserkpark.com/
 
-✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734
+✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
 
-✨ ```Project Demo (2021)```: https://www.wooserkpark.com/projects/opportunityproject
+✨ ```Project Demo (Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
 
 ✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
 ![Wooserk_Park_Resume](https://github.com/user-attachments/assets/dcb7f272-2134-4f28-81b6-9467b82b56e3)
