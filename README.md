@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 -->
 
-✨ ```Portfolio Website```: https://www.wooserkpark.com/
-
-✨ ```Deep Learning (Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
+✨ ```Ph.D. Portfolio Website```: https://www.wooserkpark.com/
 
 ✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
+
+✨ ```Developing Skill (Deep Learning--Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
 
 ✨ ```Project Demo (Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
 
