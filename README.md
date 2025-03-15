@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - ⚡ ```Federal Spending Tracker (Modeling)```: https://github.com/WooserkPark/Federal-Spending-Tracker (Present)
   - ⚡ ```Real Estate Economics (Research)```: https://github.com/WooserkPark/Building-Footprint (Present)
     
-✨ ```Project Demo (Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
+✨ ```Project Demo (Census's Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
 
 ✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
 ![Wooserk_Park_Resume](https://github.com/user-attachments/assets/dcb7f272-2134-4f28-81b6-9467b82b56e3)
