@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     
 ✨ ```Project Demo (Census's Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
 
-✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19208957/Wooserk_Park_Resume.pdf)
-![Wooserk_Park_Resume](https://github.com/user-attachments/assets/dcb7f272-2134-4f28-81b6-9467b82b56e3)
-
+✨ ```Resume Download```:[Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19262281/Wooserk_Park_Resume.pdf)
+![Wooserk_Park_Resume](https://github.com/user-attachments/assets/f122fa78-2233-478c-971c-4a79fb848af6)
 
