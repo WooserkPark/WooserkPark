@@ -27,13 +27,11 @@ Here are some ideas to get you started:
 
 ✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
 
+✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19784422/Wooserk_Park_Resume.pdf)
+
 ✨ ```Current Working Projects```
   - ⚡ ```Deep Learning (Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
   - ⚡ ```Federal Spending Tracker (Modeling)```: https://github.com/WooserkPark/Federal-Spending-Tracker (Present)
   - ⚡ ```Real Estate Economics (Research)```: https://github.com/WooserkPark/Building-Footprint (Present)
     
 ✨ ```Project Demo (Census's Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
-
-✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19784422/Wooserk_Park_Resume.pdf)
-
-
