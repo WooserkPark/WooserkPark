@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 -->
 
+✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19784422/Wooserk_Park_Resume.pdf)
+
 ✨ ```Portfolio Website```: https://www.wooserkpark.com/
 
 ✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
-
-✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/19784422/Wooserk_Park_Resume.pdf)
 
 ✨ ```Current Working Projects```
   - ⚡ ```Deep Learning (Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
