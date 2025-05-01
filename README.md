@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ✨ ```Current Working Projects```
   - ⚡ ```Deep Learning (Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
-  - ⚡ ```Federal Spending Tracker (Modeling)```: https://github.com/WooserkPark/Federal-Spending-Tracker (Present)
   - ⚡ ```Real Estate Economics (Research)```: https://github.com/WooserkPark/Building-Footprint (Present)
+  - ⚡ ```Federal Spending Tracker (Modeling)```: https://github.com/WooserkPark/Federal-Spending-Tracker (Present)
     
 ✨ ```Project Demo (Census's Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
