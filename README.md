@@ -23,16 +23,15 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 -->
 
-✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/20006710/Wooserk_Park_Resume.pdf)
-
+✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/20636841/Wooserk_Park_Resume.pdf)
 
 ✨ ```Portfolio Website```: https://www.wooserkpark.com/
 
 ✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
+✨ ```Ph.D. Second Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269699 (2025)
 
 ✨ ```Current Working Projects```
   - ⚡ ```Deep Learning (Object Detection)```: https://github.com/WooserkPark/Deep-Learning-Object-Detection (Present)
-  - ⚡ ```Real Estate Economics (Research)```: https://github.com/WooserkPark/Building-Footprint (Present)
   - ⚡ ```Federal Spending Tracker (Modeling)```: https://github.com/WooserkPark/Federal-Spending-Tracker (Present)
     
 ✨ ```Project Demo (Census's Opportunity Project)```: https://www.wooserkpark.com/projects/opportunityproject (2021)
