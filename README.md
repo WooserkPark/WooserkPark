@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ✨ ```Portfolio Website```: https://www.wooserkpark.com/
 
-✨ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
+  - ⚡ ```Ph.D. Job Market Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734 (2024)
 
-✨ ```Ph.D. Second Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269699 (2025)
+  - ⚡ ```Ph.D. Second Paper```: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269699 (2025)
 
 
 ✨ ```Current Working Projects```
