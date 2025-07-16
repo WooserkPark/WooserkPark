@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 -->
 
-✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/20636841/Wooserk_Park_Resume.pdf)
+✨ ```Resume Download```: [Wooserk_Park_Resume.pdf](https://github.com/user-attachments/files/21267397/Wooserk_Park_Resume.pdf)
 
 ✨ ```Portfolio Website```: https://www.wooserkpark.com/
 
